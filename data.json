@@ -1,0 +1,192 @@
+{
+  "locations": [
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [
+        {
+          "label": "LABEL_OF_THE_SPOT",
+          "latitude": 0.000000,
+          "longitude": 0.000000,
+          "costInEuros": 0,
+          "positionOfTheSpotInTheTourPlanning": 0
+        }
+      ]
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+    {
+      "country" :  "NAME_OF_THE_COUNTRY",
+      "languages": [ "SPOKEN_LANGUAGE_THERE" ],
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": []
+    },
+  ]
+}
