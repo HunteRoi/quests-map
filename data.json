@@ -1,0 +1,1037 @@
+{
+  "locations": [
+    {
+      "name": "Netherlands",
+      "languages": [
+        "Dutch"
+      ],
+      "capital": {
+        "name": "Amsterdam",
+        "latitude": 52.35,
+        "longitude": 4.92
+      },
+      "region": "Western Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 52.5,
+      "longitude": 5.75,
+      "sizeInSquareKilometers": 41850,
+      "populationSize": 16655799,
+      "flags": {
+        "png": "https://flagcdn.com/w320/nl.png",
+        "svg": "https://flagcdn.com/nl.svg",
+        "alt": "The flag of the Netherlands is composed of three equal horizontal bands of red, white and blue."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 0
+    },
+
+    {
+      "name": "Denmark",
+      "languages": [
+        "Danish"
+      ],
+      "capital": {
+        "name": "Copenhagen",
+        "latitude": 55.67,
+        "longitude": 12.58
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "DKK": {
+          "name": "Danish krone",
+          "symbol": "kr"
+        }
+      },
+      "latitude": 56,
+      "longitude": 10,
+      "sizeInSquareKilometers": 43094,
+      "populationSize": 5831404,
+      "flags": {
+        "png": "https://flagcdn.com/w320/dk.png",
+        "svg": "https://flagcdn.com/dk.svg",
+        "alt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 1
+    },
+
+    {
+      "name": "Sweden",
+      "languages": [
+        "Swedish"
+      ],
+      "capital": {
+        "name": "Stockholm",
+        "latitude": 59.33,
+        "longitude": 18.05
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "SEK": {
+          "name": "Swedish krona",
+          "symbol": "kr"
+        }
+      },
+      "latitude": 62,
+      "longitude": 15,
+      "sizeInSquareKilometers": 450295,
+      "populationSize": 10353442,
+      "flags": {
+        "png": "https://flagcdn.com/w320/se.png",
+        "svg": "https://flagcdn.com/se.svg",
+        "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 2
+    },
+
+    {
+      "name": "Norway",
+      "languages": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Sami"
+      ],
+      "capital": {
+        "name": "Oslo",
+        "latitude": 59.92,
+        "longitude": 10.75
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "NOK": {
+          "name": "Norwegian krone",
+          "symbol": "kr"
+        }
+      },
+      "latitude": 62,
+      "longitude": 10,
+      "sizeInSquareKilometers": 323802,
+      "populationSize": 5379475,
+      "flags": {
+        "png": "https://flagcdn.com/w320/no.png",
+        "svg": "https://flagcdn.com/no.svg",
+        "alt": "The flag of Norway has a red field with a large white-edged navy blue cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 3
+    },
+
+    {
+      "name": "Finland",
+      "languages": [
+        "Finnish",
+        "Swedish"
+      ],
+      "capital": {
+        "name": "Helsinki",
+        "latitude": 60.17,
+        "longitude": 24.93
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 64,
+      "longitude": 26,
+      "sizeInSquareKilometers": 338424,
+      "populationSize": 5530719,
+      "flags": {
+        "png": "https://flagcdn.com/w320/fi.png",
+        "svg": "https://flagcdn.com/fi.svg",
+        "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 4
+    },
+
+    {
+      "name": "Estonia",
+      "languages": [
+        "Estonian"
+      ],
+      "capital": {
+        "name": "Tallinn",
+        "latitude": 59.43,
+        "longitude": 24.72
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 59,
+      "longitude": 26,
+      "sizeInSquareKilometers": 45227,
+      "populationSize": 1331057,
+      "flags": {
+        "png": "https://flagcdn.com/w320/ee.png",
+        "svg": "https://flagcdn.com/ee.svg",
+        "alt": "The flag of Estonia is composed of three equal horizontal bands of blue, black and white."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 5
+    },
+
+    {
+      "name": "Latvia",
+      "languages": [
+        "Latvian"
+      ],
+      "capital": {
+        "name": "Riga",
+        "latitude": 56.95,
+        "longitude": 24.1
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 57,
+      "longitude": 25,
+      "sizeInSquareKilometers": 64559,
+      "populationSize": 1901548,
+      "flags": {
+        "png": "https://flagcdn.com/w320/lv.png",
+        "svg": "https://flagcdn.com/lv.svg",
+        "alt": "The flag of Latvia has a carmine-red field with a thin white horizontal band across the middle of the field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 6
+    },
+
+    {
+      "name": "Lithuania",
+      "languages": [
+        "Lithuanian"
+      ],
+      "capital": {
+        "name": "Vilnius",
+        "latitude": 54.68,
+        "longitude": 25.32
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 56,
+      "longitude": 24,
+      "sizeInSquareKilometers": 65300,
+      "populationSize": 2794700,
+      "flags": {
+        "png": "https://flagcdn.com/w320/lt.png",
+        "svg": "https://flagcdn.com/lt.svg",
+        "alt": "The flag of Lithuania is composed of three equal horizontal bands of yellow, green and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 7
+    },
+
+    {
+      "name": "Poland",
+      "languages": [
+        "Polish"
+      ],
+      "capital": {
+        "name": "Warsaw",
+        "latitude": 52.25,
+        "longitude": 21
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "PLN": {
+          "name": "Polish złoty",
+          "symbol": "zł"
+        }
+      },
+      "latitude": 52,
+      "longitude": 20,
+      "sizeInSquareKilometers": 312679,
+      "populationSize": 37950802,
+      "flags": {
+        "png": "https://flagcdn.com/w320/pl.png",
+        "svg": "https://flagcdn.com/pl.svg",
+        "alt": "The flag of Poland is composed of two equal horizontal bands of white and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 8
+    },
+
+    {
+      "name": "Germany",
+      "languages": [
+        "German"
+      ],
+      "capital": {
+        "name": "Berlin",
+        "latitude": 52.52,
+        "longitude": 13.4
+      },
+      "region": "Western Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 51,
+      "longitude": 9,
+      "sizeInSquareKilometers": 357114,
+      "populationSize": 83240525,
+      "flags": {
+        "png": "https://flagcdn.com/w320/de.png",
+        "svg": "https://flagcdn.com/de.svg",
+        "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 9
+    },
+
+    {
+      "name": "Austria",
+      "languages": [
+        "German"
+      ],
+      "capital": {
+        "name": "Vienna",
+        "latitude": 48.2,
+        "longitude": 16.37
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 47.33333333,
+      "longitude": 13.33333333,
+      "sizeInSquareKilometers": 83871,
+      "populationSize": 8917205,
+      "flags": {
+        "png": "https://flagcdn.com/w320/at.png",
+        "svg": "https://flagcdn.com/at.svg",
+        "alt": "The flag of Austria is composed of three equal horizontal bands of red, white and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 10
+    },
+
+    {
+      "name": "Czechia",
+      "languages": [
+        "Czech",
+        "Slovak"
+      ],
+      "capital": {
+        "name": "Prague",
+        "latitude": 50.08,
+        "longitude": 14.47
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "CZK": {
+          "name": "Czech koruna",
+          "symbol": "Kč"
+        }
+      },
+      "latitude": 49.75,
+      "longitude": 15.5,
+      "sizeInSquareKilometers": 78865,
+      "populationSize": 10698896,
+      "flags": {
+        "png": "https://flagcdn.com/w320/cz.png",
+        "svg": "https://flagcdn.com/cz.svg",
+        "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 11
+    },
+
+    {
+      "name": "Slovakia",
+      "languages": [
+        "Slovak"
+      ],
+      "capital": {
+        "name": "Bratislava",
+        "latitude": 48.15,
+        "longitude": 17.12
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 48.66666666,
+      "longitude": 19.5,
+      "sizeInSquareKilometers": 49037,
+      "populationSize": 5458827,
+      "flags": {
+        "png": "https://flagcdn.com/w320/sk.png",
+        "svg": "https://flagcdn.com/sk.svg",
+        "alt": "The flag of Slovakia is composed of three equal horizontal bands of white, blue and red. The coat of arms of Slovakia is superimposed at the center of the field slightly towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 12
+    },
+
+    {
+      "name": "Hungary",
+      "languages": [
+        "Hungarian"
+      ],
+      "capital": {
+        "name": "Budapest",
+        "latitude": 47.5,
+        "longitude": 19.08
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "HUF": {
+          "name": "Hungarian forint",
+          "symbol": "Ft"
+        }
+      },
+      "latitude": 47,
+      "longitude": 20,
+      "sizeInSquareKilometers": 93028,
+      "populationSize": 9749763,
+      "flags": {
+        "png": "https://flagcdn.com/w320/hu.png",
+        "svg": "https://flagcdn.com/hu.svg",
+        "alt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 13
+    },
+
+    {
+      "name": "Romania",
+      "languages": [
+        "Romanian"
+      ],
+      "capital": {
+        "name": "Bucharest",
+        "latitude": 44.43,
+        "longitude": 26.1
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "RON": {
+          "name": "Romanian leu",
+          "symbol": "lei"
+        }
+      },
+      "latitude": 46,
+      "longitude": 25,
+      "sizeInSquareKilometers": 238391,
+      "populationSize": 19286123,
+      "flags": {
+        "png": "https://flagcdn.com/w320/ro.png",
+        "svg": "https://flagcdn.com/ro.svg",
+        "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 14
+    },
+
+    {
+      "name": "Bulgaria",
+      "languages": [
+        "Bulgarian"
+      ],
+      "capital": {
+        "name": "Sofia",
+        "latitude": 42.68,
+        "longitude": 23.32
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "BGN": {
+          "name": "Bulgarian lev",
+          "symbol": "лв"
+        }
+      },
+      "latitude": 43,
+      "longitude": 25,
+      "sizeInSquareKilometers": 110879,
+      "populationSize": 6927288,
+      "flags": {
+        "png": "https://flagcdn.com/w320/bg.png",
+        "svg": "https://flagcdn.com/bg.svg",
+        "alt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 15
+    },
+
+    {
+      "name": "Greece",
+      "languages": [
+        "Greek"
+      ],
+      "capital": {
+        "name": "Athens",
+        "latitude": 37.98,
+        "longitude": 23.73
+      },
+      "region": "Southern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 39,
+      "longitude": 22,
+      "sizeInSquareKilometers": 131990,
+      "populationSize": 10715549,
+      "flags": {
+        "png": "https://flagcdn.com/w320/gr.png",
+        "svg": "https://flagcdn.com/gr.svg",
+        "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 16
+    },
+
+    {
+      "name": "Albania",
+      "languages": [
+        "Albanian"
+      ],
+      "capital": {
+        "name": "Tirana",
+        "latitude": 41.32,
+        "longitude": 19.82
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "ALL": {
+          "name": "Albanian lek",
+          "symbol": "L"
+        }
+      },
+      "latitude": 41,
+      "longitude": 20,
+      "sizeInSquareKilometers": 28748,
+      "populationSize": 2837743,
+      "flags": {
+        "png": "https://flagcdn.com/w320/al.png",
+        "svg": "https://flagcdn.com/al.svg",
+        "alt": "The flag of Albania features a silhouetted double-headed black eagle at the center of a red field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 17
+    },
+
+    {
+      "name": "North Macedonia",
+      "languages": [
+        "Macedonian"
+      ],
+      "capital": {
+        "name": "Skopje",
+        "latitude": 42,
+        "longitude": 21.43
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "MKD": {
+          "name": "denar",
+          "symbol": "den"
+        }
+      },
+      "latitude": 41.83333333,
+      "longitude": 22,
+      "sizeInSquareKilometers": 25713,
+      "populationSize": 2077132,
+      "flags": {
+        "png": "https://flagcdn.com/w320/mk.png",
+        "svg": "https://flagcdn.com/mk.svg",
+        "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 18
+    },
+
+    {
+      "name": "Kosovo",
+      "languages": [
+        "Albanian",
+        "Serbian"
+      ],
+      "capital": {
+        "name": "Pristina",
+        "latitude": 42.67,
+        "longitude": 21.17
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": false,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 42.666667,
+      "longitude": 21.166667,
+      "sizeInSquareKilometers": 10908,
+      "populationSize": 1775378,
+      "flags": {
+        "png": "https://flagcdn.com/w320/xk.png",
+        "svg": "https://flagcdn.com/xk.svg"
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 19
+    },
+
+    {
+      "name": "Serbia",
+      "languages": [
+        "Serbian"
+      ],
+      "capital": {
+        "name": "Belgrade",
+        "latitude": 44.83,
+        "longitude": 20.5
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "RSD": {
+          "name": "Serbian dinar",
+          "symbol": "дин."
+        }
+      },
+      "latitude": 44,
+      "longitude": 21,
+      "sizeInSquareKilometers": 88361,
+      "populationSize": 6908224,
+      "flags": {
+        "png": "https://flagcdn.com/w320/rs.png",
+        "svg": "https://flagcdn.com/rs.svg",
+        "alt": "The flag of Serbia is composed of three equal horizontal bands of red, blue and white. The coat of arms of Serbia is superimposed at the center of the field slightly towards the hoist side."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 20
+    },
+
+    {
+      "name": "Bosnia and Herzegovina",
+      "languages": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "capital": {
+        "name": "Sarajevo",
+        "latitude": 43.87,
+        "longitude": 18.42
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "BAM": {
+          "name": "Bosnia and Herzegovina convertible mark"
+        }
+      },
+      "latitude": 44,
+      "longitude": 18,
+      "sizeInSquareKilometers": 51209,
+      "populationSize": 3280815,
+      "flags": {
+        "png": "https://flagcdn.com/w320/ba.png",
+        "svg": "https://flagcdn.com/ba.svg",
+        "alt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 21
+    },
+
+    {
+      "name": "Croatia",
+      "languages": [
+        "Croatian"
+      ],
+      "capital": {
+        "name": "Zagreb",
+        "latitude": 45.8,
+        "longitude": 16
+      },
+      "region": "Southeast Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 45.16666666,
+      "longitude": 15.5,
+      "sizeInSquareKilometers": 56594,
+      "populationSize": 4047200,
+      "flags": {
+        "png": "https://flagcdn.com/w320/hr.png",
+        "svg": "https://flagcdn.com/hr.svg",
+        "alt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with coat of arms of Croatia superimposed in the center."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 22
+    },
+
+    {
+      "name": "Slovenia",
+      "languages": [
+        "Slovene"
+      ],
+      "capital": {
+        "name": "Ljubljana",
+        "latitude": 46.05,
+        "longitude": 14.52
+      },
+      "region": "Central Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 46.11666666,
+      "longitude": 14.81666666,
+      "sizeInSquareKilometers": 20273,
+      "populationSize": 2100126,
+      "flags": {
+        "png": "https://flagcdn.com/w320/si.png",
+        "svg": "https://flagcdn.com/si.svg",
+        "alt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 23
+    },
+
+    {
+      "name": "Italy",
+      "languages": [
+        "Italian"
+      ],
+      "capital": {
+        "name": "Rome",
+        "latitude": 41.9,
+        "longitude": 12.48
+      },
+      "region": "Southern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 42.83333333,
+      "longitude": 12.83333333,
+      "sizeInSquareKilometers": 301336,
+      "populationSize": 59554023,
+      "flags": {
+        "png": "https://flagcdn.com/w320/it.png",
+        "svg": "https://flagcdn.com/it.svg",
+        "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 24
+    },
+
+    {
+      "name": "Switzerland",
+      "languages": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "capital": {
+        "name": "Bern",
+        "latitude": 46.92,
+        "longitude": 7.47
+      },
+      "region": "Western Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "CHF": {
+          "name": "Swiss franc",
+          "symbol": "Fr."
+        }
+      },
+      "latitude": 47,
+      "longitude": 8,
+      "sizeInSquareKilometers": 41284,
+      "populationSize": 8654622,
+      "flags": {
+        "png": "https://flagcdn.com/w320/ch.png",
+        "svg": "https://flagcdn.com/ch.svg",
+        "alt": "The flag of Switzerland is square shaped. It features a white Swiss cross centered on a red field."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 25
+    },
+
+    {
+      "name": "France",
+      "languages": [
+        "French"
+      ],
+      "capital": {
+        "name": "Paris",
+        "latitude": 48.87,
+        "longitude": 2.33
+      },
+      "region": "Western Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 46,
+      "longitude": 2,
+      "sizeInSquareKilometers": 551695,
+      "populationSize": 67391582,
+      "flags": {
+        "png": "https://flagcdn.com/w320/fr.png",
+        "svg": "https://flagcdn.com/fr.svg",
+        "alt": "The flag of France is composed of three equal vertical bands of blue, white and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 26
+    },
+
+    {
+      "name": "Spain",
+      "languages": [
+        "Spanish"
+      ],
+      "capital": {
+        "name": "Madrid",
+        "latitude": 40.4,
+        "longitude": -3.68
+      },
+      "region": "Southern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 40,
+      "longitude": -4,
+      "sizeInSquareKilometers": 505992,
+      "populationSize": 47351567,
+      "flags": {
+        "png": "https://flagcdn.com/w320/es.png",
+        "svg": "https://flagcdn.com/es.svg",
+        "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 27
+    },
+
+    {
+      "name": "Portugal",
+      "languages": [
+        "Portuguese"
+      ],
+      "capital": {
+        "name": "Lisbon",
+        "latitude": 38.72,
+        "longitude": -9.13
+      },
+      "region": "Southern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 39.5,
+      "longitude": -8,
+      "sizeInSquareKilometers": 92090,
+      "populationSize": 10305564,
+      "flags": {
+        "png": "https://flagcdn.com/w320/pt.png",
+        "svg": "https://flagcdn.com/pt.svg",
+        "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 29
+    },
+
+    {
+      "name": "United Kingdom",
+      "languages": [
+        "English"
+      ],
+      "capital": {
+        "name": "London",
+        "latitude": 51.5,
+        "longitude": -0.08
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "GBP": {
+          "name": "British pound",
+          "symbol": "£"
+        }
+      },
+      "latitude": 54,
+      "longitude": -2,
+      "sizeInSquareKilometers": 242900,
+      "populationSize": 67215293,
+      "flags": {
+        "png": "https://flagcdn.com/w320/gb.png",
+        "svg": "https://flagcdn.com/gb.svg",
+        "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 30
+    },
+
+    {
+      "name": "United Kingdom",
+      "languages": [
+        "English"
+      ],
+      "capital": {
+        "name": "London",
+        "latitude": 51.5,
+        "longitude": -0.08
+      },
+      "region": "Northern Europe",
+      "isInEuropeanUnion": false,
+      "currencies": {
+        "GBP": {
+          "name": "British pound",
+          "symbol": "£"
+        }
+      },
+      "latitude": 54,
+      "longitude": -2,
+      "sizeInSquareKilometers": 242900,
+      "populationSize": 67215293,
+      "flags": {
+        "png": "https://flagcdn.com/w320/gb.png",
+        "svg": "https://flagcdn.com/gb.svg",
+        "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 31
+    },
+
+    {
+      "name": "Belgium",
+      "languages": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "capital": {
+        "name": "Brussels",
+        "latitude": 50.83,
+        "longitude": 4.33
+      },
+      "region": "Western Europe",
+      "isInEuropeanUnion": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "latitude": 50.83333333,
+      "longitude": 4,
+      "sizeInSquareKilometers": 30528,
+      "populationSize": 11555997,
+      "flags": {
+        "png": "https://flagcdn.com/w320/be.png",
+        "svg": "https://flagcdn.com/be.svg",
+        "alt": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red."
+      },
+      "estimatedTimeSpentThereInDays": 0,
+      "spots": [],
+      "order": 32
+    }
+  ]
+}
